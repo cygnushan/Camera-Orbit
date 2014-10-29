@@ -2,9 +2,9 @@
 Project : 
 Version : 
 Date    : 2013-10-15
-Author  : cygnus
-Company : hust
-Comments: 
+Author  : cygnus han
+Company : zte
+Comments: test for github
 
 
 Chip type               : ATmega16
